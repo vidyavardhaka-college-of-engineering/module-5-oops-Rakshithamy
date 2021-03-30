@@ -8,8 +8,8 @@ using namespace std;
 int main() 
 {
    
-   int ; // Declare Variables
-   std::cout << "\nEnter the Length and Breadth of Rectangle : ";
+   int l,b,area; // Declare Variables
+   std::cout << "Enter the Length and Breadth of Rectangle : ";
    std::cin >> l >> b;
               //complete the missing code to caluculate area
    std::cout << area;
